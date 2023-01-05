@@ -1,0 +1,55 @@
+
+
+
+.form{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form input {
+    padding: 8px 15px;
+    margin-bottom: 1.5em;
+    border-radius: 0;
+    border: 1px solid #202c34;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.form input:hover{
+    background-color: aliceblue;
+    border-color: #202c34;
+}
+
+.input_container{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.input_container label{
+    font-weight: bolder;
+    margin-bottom:.4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
