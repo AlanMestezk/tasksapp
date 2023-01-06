@@ -1,6 +1,5 @@
 
 
-
 .form{
     display: flex;
     flex-direction: column;
@@ -17,8 +16,6 @@
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 .form input:hover{
     background-color: aliceblue;
